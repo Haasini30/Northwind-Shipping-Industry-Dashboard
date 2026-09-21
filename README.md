@@ -145,13 +145,11 @@ The dashboard can be used to identify:
 ## 📁 Repository Structure
 
 ```text
-Northwind Shipping/
-│
-├── Assets/
+Assets/
 │   ├── Full_dashboard.png
 │   └── Products_Page.png
 │
-├── Dashboard/
+Dashboard/
 │   └── Northwind Shipping Inventory Analysis.pbix
 │
 └── README.md
